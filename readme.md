@@ -1,8 +1,8 @@
-# Project Euler Solutions
+# Project Euler Solutions [![Build Status][build]][build-url]
 > Project Euler Solutions [Javascript]
 
-[![Build Status][build]][build-url]
-===
+## Solution
+- [Problem 003: Largest prime factor](./solution/3.largestPrimeFactor.js)
 
 ## Test
 ```shell
