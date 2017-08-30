@@ -4,6 +4,7 @@
 ## Solution
 - [Problem 003: Largest prime factor](./solution/3.largestPrimeFactor.js)
 - [Problem 004: Largest Plindrome Product](./solution/4.largestPalindromeProduct.js)
+- [Problem 005: Smallest Multiple](./solution/5.smallestMultiple.js)
 
 ## Test
 ```shell
