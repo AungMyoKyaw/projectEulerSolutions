@@ -2,6 +2,7 @@
 > Project Euler Solutions [Javascript]
 
 ## Solution
+- [Problem 001: Multiples of 3 and 5](./solution/1.multiplesof3and5.js)
 - [Problem 003: Largest prime factor](./solution/3.largestPrimeFactor.js)
 - [Problem 004: Largest Plindrome Product](./solution/4.largestPalindromeProduct.js)
 - [Problem 005: Smallest Multiple](./solution/5.smallestMultiple.js)
