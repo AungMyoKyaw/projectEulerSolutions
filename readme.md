@@ -1,6 +1,8 @@
 # Project Euler Solutions [![Build Status][build]][build-url]
 > Project Euler Solutions [Javascript]
 
+[![Euler Badge][euler-badge]][euler-url]
+
 ## Solution
 - [Problem 001: Multiples of 3 and 5](./solution/1.multiplesof3and5.js)
 - [Problem 002: Even Fibonacci numbers](./solution/2.evenfibonacciNumbers.js)
@@ -19,3 +21,5 @@ npm test //run testCase
 
 [build]: https://travis-ci.org/AungMyoKyaw/projectEulerSolutions.svg?branch=master
 [build-url]: https://travis-ci.org/AungMyoKyaw/projectEulerSolutions
+[euler-badge]: https://projecteuler.net/profile/AungMyoKyaw.png
+[euler-url]: https://projecteuler.net/
