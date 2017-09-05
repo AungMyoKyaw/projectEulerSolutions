@@ -23,5 +23,5 @@ npm test //run testCase
 
 [build]: https://travis-ci.org/AungMyoKyaw/projectEulerSolutions.svg?branch=master
 [build-url]: https://travis-ci.org/AungMyoKyaw/projectEulerSolutions
-[euler-badge]: https://projecteuler.net/profile/AungMyoKyaw.png
+[euler-badge]: https://projecteuler.net/profile/AungMyoKyaw.png?nocache
 [euler-url]: https://projecteuler.net/
