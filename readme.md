@@ -11,6 +11,7 @@
 - [Problem 005: Smallest Multiple](./solution/5.smallestMultiple.js)
 - [Problem 006: Sum square difference](./solution/6.sumSquareDifference.js)
 - [Problem 007:	10001st prime](./solution/7.nthPrime.js)
+- [Problem 008:	Largest product in a series](./solution/8.largestProductinaSeries.js)
 
 ## Test
 ```shell
