@@ -4,11 +4,11 @@
  * @param  {Number} number The max number
  * @return {Number}        sumSquareDifference
  */
-const sumSquareDifference = (number)=>{
-	let squareOfSum = Math.pow(sumOfArithmeticSeries(1,1,number),2);
-	let sumOfSquare = sumOfSquareOfNumbers(number);
-	return squareOfSum - sumOfSquare;
-}
+const sumSquareDifference = number => {
+  let squareOfSum = Math.pow(sumOfArithmeticSeries(1, 1, number), 2);
+  let sumOfSquare = sumOfSquareOfNumbers(number);
+  return squareOfSum - sumOfSquare;
+};
 
 /**
  * sumOfArithmeticSeries
@@ -17,8 +17,8 @@ const sumSquareDifference = (number)=>{
  * @param  {Number} n number of terms
  * @return {Number}   sumOfArithmeticSeries
  */
-function sumOfArithmeticSeries(a,d,n){
-	return (n/2)*(2*a+(n-1)*d);
+function sumOfArithmeticSeries(a, d, n) {
+  return (n / 2) * (2 * a + (n - 1) * d);
 }
 
 /**
@@ -26,8 +26,8 @@ function sumOfArithmeticSeries(a,d,n){
  * @param  {Number} n number of terms
  * @return {Number}   sumOfSquareOfNumbers
  */
-function sumOfSquareOfNumbers(n){
-	return (n*(n+1)*(2*n+1))/6;
+function sumOfSquareOfNumbers(n) {
+  return (n * (n + 1) * (2 * n + 1)) / 6;
 }
 
 module.exports = sumSquareDifference;

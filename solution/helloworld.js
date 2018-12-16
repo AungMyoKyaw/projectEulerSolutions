@@ -1,5 +1,5 @@
-const helloworld = ()=>{
-	return `Hello World!`
-}
+const helloworld = () => {
+  return `Hello World!`;
+};
 
 module.exports = helloworld;

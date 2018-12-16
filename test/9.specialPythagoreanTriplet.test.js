@@ -2,9 +2,9 @@ const specialPythagoreanTriplet = require('../solution/9.specialPythagoreanTripl
 const chai = require('chai');
 const should = chai.should();
 
-describe('specialPythagoreanTriplet',()=>{
-	it('should return specialPythagoreanTriplet',done=>{
-		specialPythagoreanTriplet().should.equal(31875000);
-		done();
-	})
-})
+describe('specialPythagoreanTriplet', () => {
+  it('should return specialPythagoreanTriplet', done => {
+    specialPythagoreanTriplet().should.equal(31875000);
+    done();
+  });
+});
